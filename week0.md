@@ -17,7 +17,7 @@ We've got a few set-up tasks to get started ... the following is due by **Friday
 - Make note of the user name you choose - you will need it for the survey.
 
 4. **Submit the class survey**
-- [Survey here](https://airtable.com/appGiPg1CTxS0SPIs/shrUiU3fHWS4VnWbf) - password: c++2024pro
+- [Survey here](https://airtable.com/appBFOjXtaSO2vVV5/shr5plqjFgZ3Oqe9A) - password: c++2024pro
 - You will need to know your Discord name before completing the survey
 - You will need to agree to the academic honesty policy in the [syllabus](https://github.com/mab253/cpp_fall24/blob/main/README.md) and the [AI citation policy](https://github.com/mab253/cpp_fall24/blob/main/ai-citations.md) when completing the survey
 
