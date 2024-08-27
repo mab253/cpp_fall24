@@ -6,7 +6,7 @@
 **Space:** Marshak 117 (lecture) \
 **Recitation:** lab on Fridays (time based on section, CC1 or CC2), w/Professor Riddhi Kadia, NAC 7/107 \
 **Office Hours:** virtual by appointment, [schedule here](https://www.cal.com/mab253) \
-**E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Riddhi Kadia - `rkadia000@citymail.cuny.edu` \
+**E-mail:** Madeline Blount - `mblount@ccny.cuny.edu`, Riddhi Kadia - `rkadia@ccny.cuny.edu` \
 City College, City University of New York
 
 ## course description
