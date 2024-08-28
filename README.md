@@ -271,7 +271,7 @@ It is **not acceptable** to:
 - Submit (after possibly modifying) the work of another individual
 - 💥 Use AI-based software  _without citation_. [See more info here.](https://github.com/mab253/cpp_fall24/blob/main/ai-citations.md)
 
-_These terms modified and inspired by Harvard's CS50's academic honesty policy, [here](https://cs50.harvard.edu/x/2022/honesty/)._
+_These terms modified and inspired by Harvard's CS50's academic honesty policy, [here](https://cs50.harvard.edu/x/2024/honesty/)._
 
 I have ways of checking on the originality of your code and assignments. Consequences for violating this academic honesty policy, including mis-use of AI tools, will be severe, including but not limited to failing the course.
 
