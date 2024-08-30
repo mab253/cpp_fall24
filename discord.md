@@ -9,7 +9,7 @@ Discord is a good tool to learn in today's coding world: most workplaces will ha
 ## to start on our Discord server:
   - you will receive an invite link via your CCNY e-mail, I will send this out after class before the end of the day on Wednesday, Aug. 28th.
   - you may create a new Discord account with your CCNY e-mail, or you may use an account you already have
-  - you can name yourself anything that you want, but **please make sure that your profile "About Me" includes at least your first name and last initial**, so that we know who each other are - you can [customize your User or Server profile settings](https://support.discord.com/hc/en-us/articles/4409388345495-Server-Profiles#h_01FGCPP3V7BS1QVCQQZ2YC0RXB) for this server, or your [nickname just for this server](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames), to adjust this
+  - you can name yourself anything that you want, but if your username is not your IRL name, **please make sure that your profile "About Me" includes at least your first name and last initial**, so that we know who each other are - you can [customize your User or Server profile settings](https://support.discord.com/hc/en-us/articles/4409388345495-Server-Profiles#h_01FGCPP3V7BS1QVCQQZ2YC0RXB) for this server, or your [nickname just for this server](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames), to adjust this
   - post a "hello world" message in the #general channel
 
 ## Discord tips
