@@ -2,6 +2,10 @@
 
 other optional practice + info on variables, data types, and other topics from this week:
 - 🖥️ **in-class code**, [einstein, mass-energy equivalence](https://replit.com/@mab253/einstein#main.cpp)
+- [The Map is the Territory](https://coolguy.website/map-is-the-territory/), (Zach M.), _highly recommend_, witchy introduction to `terminal` as spells 🌙
+- [Zed](https://zed.dev/) download link, the code editor I will be using in class (optional, use whichever one you like, including Replit)
+- codecademy, [Intro to the Command Line](https://www.codecademy.com/learn/intro-to-the-command-line), free course + more good practice with the `terminal`
+- [Installing a C++ Compiler](https://hank.feild.org/courses/common/cpp-compiler.html), Henry Feild - for mac/windows getting `g++` to work in your terminal
 - codeacademy c++, "[Variables](https://www.codecademy.com/courses/learn-c-plus-plus/lessons/cpp-variables/exercises/introduction)" (free course)
 - codeacademy c++ on "[Data Types](https://www.codecademy.com/resources/docs/cpp/data-types?page_ref=catalog)"
 - harvard cs50 (video) on [Integer Overflow](https://video.cs50.io/cwtpLIWylAw?screen=o9_fiSk1cPY)
