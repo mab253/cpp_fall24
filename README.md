@@ -106,7 +106,7 @@ zyBooks Week 4 Lab: DUE Sept. 27, 11:59pm
 **NO CLASS** on Wed. Oct. 2 - Fri. Oct 4 \
 (CCNY closed, holiday)
 
-zyBooks Week 5, Readings: DUE **TUESDAY** Oct. 1, 11:59pm
+zyBooks Week 5, (Short) Readings + Labs: DUE **TUESDAY** Oct. 1, 11:59pm
 
 ---
 
