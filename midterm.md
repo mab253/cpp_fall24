@@ -1,9 +1,10 @@
 # 🤖🔑 midterm hackathon! #
 
 _Oct 21 - Oct 25, 2024_ \
-**due: Fri. Oct. 25 @ 5:59pm NYC-time**
+**due: Fri. Oct. 25 @ 5:59pm NYC-time** \
+**📝➡️💥 [EVALUATION FORM](https://airtable.com/appBFOjXtaSO2vVV5/shrt8hx71tW16IuG0)** <- make sure to submit this form, as well as your code, by the deadline
 
-**🐙➡️💥 [TEAM LIST](https://airtable.com/appBFOjXtaSO2vVV5/shrs7HpZvC4ogmX7B/tblOhGY29sUGqhPVK)**
+**🐙➡️ [TEAM LIST](https://airtable.com/appBFOjXtaSO2vVV5/shrs7HpZvC4ogmX7B/tblOhGY29sUGqhPVK)**
 
 ![400-DALL·E 2024-10-20 21 53 16 - A photorealistic image of two lifelike cats wearing subtle 90s-style cyberpunk enhancements, such as glowing visors or small tech accessories, trying  copy](https://github.com/user-attachments/assets/3ca3ff98-a328-4e57-9178-74dd71a9b028)
 
@@ -62,5 +63,6 @@ You may want to use [replit.com](https://replit.com) or your own text editor to 
 - The zyBooks lab should accept your code no matter what - for this project, there is no feedback from unit or output tests! You can submit as many times as you need before the deadline.
 
 - **Each team member** needs to submit code via zyBooks 16.40, even if your team's code is exactly the same.
+- **📝➡️💥 [EVALUATION FORM](https://airtable.com/appBFOjXtaSO2vVV5/shrt8hx71tW16IuG0)** <- make sure to submit this form, as well as your code, by the deadline
 
 👽 Good luck!
