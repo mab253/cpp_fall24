@@ -251,7 +251,7 @@ If you have a reason for needing an **extension (where you will receive full poi
 
 ## academic honesty and integrity:
 
-Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.ccny.cuny.edu/it/academic-integrity-policy). **This is as true for writing code as it is for writing others' words and pretending that they are yours.**
+Plagiarism is "the act of presenting another person's ideas, research or writings as your own." [(CUNY)](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/). **This is as true for writing code as it is for writing others' words and pretending that they are yours.**
 
 It is important that everything you turn in for this class is your own work. I understand that collaborating with your classmates can be really helpful when learning programming - you are allowed and encouraged to do this! However, the code you submit must reflect work you have done on your own. To outline some of the boundaries here, it is acceptable to:
 
@@ -275,7 +275,7 @@ _These terms modified and inspired by Harvard's CS50's academic honesty policy, 
 
 I have ways of checking on the originality of your code and assignments. Consequences for violating this academic honesty policy, including mis-use of AI tools, will be severe, including but not limited to failing the course.
 
-You can find CCNY’s Academic Integrity Policy in full [here](http://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/).  Do not plagiarize.
+You can find CCNY’s Academic Integrity Policy in full [here](https://www.cuny.edu/about/administration/offices/legal-affairs/policies-resources/academic-integrity-policy/).  Do not plagiarize.
 
 ## contact and questions
 
