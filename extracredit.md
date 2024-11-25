@@ -10,6 +10,8 @@ Go to the Museum of Modern Art or the Whitney Museum of American Art (CUNY stude
 ### 2 - 👾 Reflection: ChatGPT
 Choose 1 problem from [Project Euler](https://projecteuler.net/), any problem after Problem #9. Your goal: try to get [ChatGPT](https://openai.com/blog/chatgpt) to write a C++ program that provides the answer correctly. Write about your experience using the bot for this purpose - what prompts did you need to use, what questions did you need to ask? What was the give-and-take between you the chatbot? What were your surprises, successes, frustrations? What do you think about ChatGPT as a tool for writing code, or for learning code? What are your thoughts about ChatGPT as a student and a programmer moving forward? Show both your code, some of the bot's code, and your original written reflections here, at least 750 words. I am more interested in your own reflection on this _process_ than the final "product" of ChatGPT's code!
 
+### 🐠 how does this work? 
+
 - If you complete an extra credit assignment, it can boost your grade half a "step" - going from B to B+, C+ to B-, B+ to A-, for example.
 - If your average in the class < 70% (but above 50%) and you complete 1 extra assignment, **you can receive a passing final grade in the class.**
 - You may do more than 1 extra credit assignment, but the maximum it will boost your grade is a half "step." So: doing 2 extra credit pieces does not mean a C will turn into a B. You may do more than 1 because you are interested, or to make sure that you are turning in solid work on at least 1!
