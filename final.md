@@ -59,11 +59,11 @@ Do you have a project idea that you and your partner really want to build? (Mayb
 
 ## Due Dates
 
-1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by Nov. 17th.** You will need to fill out [this form](https://airtable.com/appGiPg1CTxS0SPIs/shr7o7FxNwwOknCLS) to share your project choice and your partner by 11:59pm on Nov 17th. **Note:** on 👈 this form, if you would like me to match you with a partner, you can choose this preference.
+1. First milestone: choose your project (1, 2, or your own idea) and your partner from your lab section **by Nov. 17th.** You will need to fill out [this form](https://airtable.com/appBFOjXtaSO2vVV5/shr58BCekEcGt06Mi) to share your project choice and your partner by 11:59pm on Nov 17th. **Note:** on 👈 this form, if you would like me to match you with a partner, you can choose this preference.
 
 2. Final project delivery, including short reflection texts and code via the Replit platform, due **Tuesday, Dec. 3rd** @ 11:59pm.
 
-3. ###  🚀 when ready, _each person_ can submit their final project [here](https://airtable.com/appBFOjXtaSO2vVV5/shr58BCekEcGt06Mi) ⬅️
+3. ###  🚀 when ready, _each person_ can submit their final project [here](https://airtable.com/appBFOjXtaSO2vVV5/shra68DUZJQSVVCih) ⬅️
 
 ## important notes
 
