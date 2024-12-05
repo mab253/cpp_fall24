@@ -198,7 +198,8 @@ zyBooks Week 14 Reading + Lab: DUE Dec. 6, 11:59pm
 ---
 
 **Week 15: Dec. 9 & Dec. 11** \
-*Pointers, cont.*
+*Pointers, cont.* \
+**💥 ASYNC WEEK! NO IN-PERSON CLASS**
 
 **Assignment:** \
 **🎥 lecture:** [watch video here](https://www.loom.com/share/36b18c04c6c342ba96ad32fd06d5aa56) this will help with pointers + linked lists!! \
